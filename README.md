@@ -1,7 +1,7 @@
 
 # MongoDB-Task1
 
-It has Guvi-Zen class Roadmap session: Day-33 and Database : Day-1 Task. In this task, I worked on various Mysql queries which helped me to understand how the relational database works.
+It has Guvi-Zen class Roadmap session: Day-35 and Database : MongoDB : Day-3 Tasks. In this task, I learn to basic MongoDB Queries.
 
 ## Lessons Learned
 
